@@ -1,2 +1,2 @@
-# rumps-translate
-A simple translate tool using rumps
+# sb-translate
+A simple status bar google translate tool
